@@ -21,6 +21,8 @@ flake8 = "^3.9.2"
 scikit-surprise = "^1.1.1"
 dask = {extras = ["complete"], version = "^2021.6.1"}
 fitbit = "^0.3.1"
+python-dateutil = ">=1.5"
+requests-oauthlib = ">=0.7"
 
 [tool.poetry.dev-dependencies]
 
